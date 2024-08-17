@@ -190,7 +190,7 @@ html{
         align-items: center;
         flex-wrap: wrap;
 
-        width: 400px;
+        width: 100%;
 
     
 
@@ -291,9 +291,7 @@ html{
     }
 
     form{
-
         width: 100%;
-
     }
 
  
