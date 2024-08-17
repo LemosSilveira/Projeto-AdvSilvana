@@ -20,7 +20,7 @@ html{
 
        
        width: 100%;
-      
+        overflow-x: hidden;
         
     }
 
@@ -32,7 +32,7 @@ html{
     
     nav{
         position: fixed;
-        width: 86%;
+        width: 92%;
         display: flex;
         align-items: center;
         justify-content: space-between;
@@ -73,6 +73,11 @@ html{
     
     }
     
+   #logotipo{
+
+  
+
+   }
     #Areas{
     
         display: flex;
@@ -157,6 +162,7 @@ html{
     #Contato{
         background-color: #3B485E;
         width: 100%;
+        overflow: hidden;
 
 
     }
