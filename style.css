@@ -73,11 +73,7 @@ html{
     
     }
     
-   #logotipo{
-
-  
-
-   }
+   
     #Areas{
     
         display: flex;
@@ -88,7 +84,7 @@ html{
         background-color: #3B485E;
         
         height: 1500px; 
-        width: 100%     ;
+        width: 100%;    
     
     }
     
@@ -291,6 +287,12 @@ html{
        padding-left: 5%;
        padding-top: 10px;
        color: #D3BFB1;
+
+    }
+
+    form{
+
+        width: 100%;
 
     }
 
